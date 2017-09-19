@@ -1,13 +1,13 @@
-## Your Name
+## Tim Jones
 
 Teams - Problem Solving - Learning.
-These are the three things I love and three things I'm good at. Joining teams, building them, contributing to them, delivering as part of them.
+Professionally these are the three things I love and three things I'm good at. Joining teams, building them, contributing to them, delivering as part of them.
 I'm good at solving problems. From the plan to the delivery, I'm experienced in adapting and keeping momentum.
 I'm curious and face down complexity. Professionally, if I'm not learning I'm not happy.
 
 I've sought out challenging roles across the public and private sector and succeeded in all of them. I've never turned down a challenge - I volunteered for all my hardest tasks.
 
-Technology has changed the world for good and since we aint seen nothing I pivotted my carrer to focus my energy on developing for a product or organisation that is contributing to a better society and world.
+Technology changes the world and since we 'aint seen nothing I pivotted my career to focus on developing software so I can be part of this change. I want to work for a product or organisation that is making a better society and world.
 
 
 ## Skills
@@ -16,9 +16,9 @@ Technology has changed the world for good and since we aint seen nothing I pivot
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-- Experience
-- Achievements
-- Evidence
+- Teamwork
+- Analysis
+- Communication
 
 #### Another Skill
 
