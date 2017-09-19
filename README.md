@@ -1,6 +1,14 @@
 ## Your Name
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Teams - Problem Solving - Learning.
+These are the three things I love and three things I'm good at. Joining teams, building them, contributing to them, delivering as part of them.
+I'm good at solving problems. From the plan to the delivery, I'm experienced in adapting and keeping momentum.
+I'm curious and face down complexity. Professionally, if I'm not learning I'm not happy.
+
+I've sought out challenging roles across the public and private sector and succeeded in all of them. I've never turned down a challenge - I volunteered for all my hardest tasks.
+
+Technology has changed the world for good and since we aint seen nothing I pivotted my carrer to focus my energy on developing for a product or organisation that is contributing to a better society and world.
+
 
 ## Skills
 
@@ -34,17 +42,26 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
+#### Open University (2008 - 2010)
+
+- MSc International Development and Management
+
+#### Royal Military Academy Sandhurst (Jan -Dec 2003)
+
+- British Army Leadership and Management course for Officers
+
 #### University of Leeds (1999 to 2002)
 
 - BA Hons English Literature and Language
-- Grade
-- Other cool stuff
+- 2:1
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
+**Barclays Investment Bank** ( Dec 2014 to Jul 2017)    
 *Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Edinburgh International** (Oct 2011 to Oct 2014   
+*Your job title*
+**British Army** (Jan 2003 to Dec 2010)   
+*Various Infantry and Intelligence roles*
