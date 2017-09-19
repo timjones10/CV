@@ -34,9 +34,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Leeds (1999 to 2002)
 
-- Subject, any specialisms
+- BA Hons English Literature and Language
 - Grade
 - Other cool stuff
 
