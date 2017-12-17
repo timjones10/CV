@@ -1,10 +1,9 @@
 ## Tim Jones
+I'm a full stack software developer focussed on 
 
 In the army I led various teams, from infantry soldiers in Helmand Province, to intelligence analysts in Iraq. I built a political and security risk consultancy within a larger company focussed on the Middle East and Sub-Sharan Africa. At Barclays I focussed on preventing unexpected risk events in the front office of the Investment Bank including working with developers to produce risk and control tools. I succeeded in all these roles because I'm a good team player who's good with people.
 
 I thrive in professional environments with cultures focused on constant learning. I did a distance-learning Masters whilst deployed overseas and ran the Lessons Learnt process in Barclays Investment Bank, before learning to develop software at Makers Academy. This demonstrates my firm commitment to learn constantly and be part of organisation which have a learning culture.
-
-I've sought out challenging roles across the public and private sector and succeeded in all of them. I've never turned down a challenge. I volunteered for all my hardest tasks.
 
 ## Skills
 
