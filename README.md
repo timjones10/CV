@@ -1,25 +1,17 @@
 ## Tim Jones
 
-Working with People. Problem Solving. Learning.
+In the army I led various teams, from infantry soldiers in Helmand Province, to intelligence analysts in Iraq. I built a political and security risk consultancy within a larger company and at Barclays I focussed on preventing unexpected risk events in the front office of the Investment Bank. I succeeded in all these roles because I'm a good teamplayer who's good with people.
 
-Professionally these are the three things I love and three things I'm best at.
-
-I thrive as a member of a team and have contributed to teams (and teams of teams) of different sizes across the public and private sector in front line, client facing and analytical support roles.
-
-I'm really experienced in planning and driving projects forward. From the scope through final delivery to after-action review, I'm good at adapting if the situation changes, keeping an eye on the goal and maintaining momentum.
-
-I'm curious and face down complexity in order to get to the bottom of things. Professionally, if I'm not learning I'm not happy. This has meant that within the right role, the value I deliver, and my personal fulfilment increases over time.
+I thrive in professional environments with cultures focused on constant learning. I did a distance-learning Masters whilst deployed overseas and ran the Lessons Learnt process in Barclays Investment Bank, before learning to develop software at Makers Academy. This demonstrates my firm commitment to learn constantly and be part of organisation which have a learning culture.
 
 I've sought out challenging roles across the public and private sector and succeeded in all of them. I've never turned down a challenge. I volunteered for all my hardest tasks.
-
-Technology's changed the world and since 'we aint seen nothing yet' I've pivoted my career to focus on developing software so I can be part of this ongoing change. I want to work for a product or organisation that is making a better society and world.
-
 
 ## Skills
 
 #### Analysis
 
-As part of a huge Special Forces Headquarters I analysed and moved intelligence to improve management understanding. I did as part of a team of analysts across multiple locations globally. I transferred these skills to the private sector where I designed frameworks for analysing security and political risks and delivered reports to clients (private, public and charity organisations) to allow them to operate in new markets.
+* Analysed and moved intelligence to improve management understanding in a Special Forces Headquarters as part of a multi-agency, multi-national, geographically dispersed team. 
+* Designed frameworks for analysing security and political risks and delivered reports (private, public and charity organisations).
 
 #### Simplifying Complexity
 
