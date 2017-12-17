@@ -1,6 +1,6 @@
 ## Tim Jones
 
-In the army I led various teams, from infantry soldiers in Helmand Province, to intelligence analysts in Iraq. I built a political and security risk consultancy within a larger company and at Barclays I focussed on preventing unexpected risk events in the front office of the Investment Bank. I succeeded in all these roles because I'm a good teamplayer who's good with people.
+In the army I led various teams, from infantry soldiers in Helmand Province, to intelligence analysts in Iraq. I built a political and security risk consultancy within a larger company focussed on the Middle East and Sub-Sharan Africa. At Barclays I focussed on preventing unexpected risk events in the front office of the Investment Bank including working with developers to produce risk and control tools. I succeeded in all these roles because I'm a good team player who's good with people.
 
 I thrive in professional environments with cultures focused on constant learning. I did a distance-learning Masters whilst deployed overseas and ran the Lessons Learnt process in Barclays Investment Bank, before learning to develop software at Makers Academy. This demonstrates my firm commitment to learn constantly and be part of organisation which have a learning culture.
 
@@ -15,16 +15,21 @@ I've sought out challenging roles across the public and private sector and succe
 
 #### Simplifying Complexity
 
-Across my roles in the public and private sector, I've won praise and delivered value for my ability to provide insight by simplifying tough problems. At Barclays I was chosen to engage with senior Managing Directors across Sales and Trading to explain a new risk and control tool because of my ability to cut through complexity and communicate concisely.
+* Skilled at providing insight by simplifying tough problems. Chosen at Barlcays to engage with senior Managing Directors across Sales and Trading to explain a new risk and control tool because of my ability to cut through complexity and communicate concisely.
+* Extensive experience briefing senior leaders on complex intelligence. In one role provided a written briefing for Prime Minister.
 
 #### Planning and Delivery
 
-I built on my work in specialist planning roles in the Army while delivering projects in the Investment Bank, a large and complex organisation where change was constant. When progress is slow or difficult I've the got the energy, experience and mental agility to suggest solutions and keep things moving. I've regularly led stalled meetings to agreement or decision by identifying and articulating the issue and recommending next steps.
+* Built on my work in specialist planning roles in the Army while delivering projects in the Investment Bank, a large and complex organisation where change was constant. 
+* Posess the energy, experience and mental agility to suggest solutions and keep things moving. 
+* I've regularly led stalled meetings to agreement or decision by identifying and articulating the issue and recommending next steps.
 
 
 #### Communication
 
-I delivered verbal briefings (in person and over Skype) and written reports to paying clients during my work as a Risk and Advisory Manager. I'm comfortable speaking across diverse teams and have the emotional intelligence to quickly read the dynamics of a room. I produced written reports at Barclays which clearly summarised and communicated complex risk events across dozens of businesses and hundreds of systems and processes.
+* Delivered verbal briefings and written reports to paying clients during my work as a Risk and Advisory Manager. 
+* Comfortable speaking across diverse teams and have the emotional intelligence to quickly read the dynamics of a room. I
+* Produced written reports at Barclays which clearly summarised and communicated complex risk events across dozens of businesses and hundreds of systems and processes.
 
 ## Education
 
