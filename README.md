@@ -1,9 +1,11 @@
 ## Tim Jones
 I'm a full stack software developer focussed on growing my ability to do full end to end delivery of software.
 
-My background is in risk, both in finance and consultancy, and military. In the army I led various teams, from infantry soldiers in Helmand Province, to intelligence analysts in Iraq. I built a political and security risk consultancy within a larger company focussed on the Middle East and Sub-Sharan Africa. At Barclays I focussed on preventing unexpected risk events in the front office of the Investment Bank including working with developers to produce risk and control tools. I succeeded in all these roles because I'm a dedicated team player who's good with people.
+My immediate background is in risk, both in finance and a consultancy and prior to that the army. I've led varied teams from infantry soldiers in Helmand Province, to intelligence analysts in Iraq. I built a political and security risk consultancy within a larger company focussed on the Middle East and Sub-Sharan Africa. At Barclays I focussed on preventing unexpected risk events in the front office of the Investment Bank including working with developers to produce risk and control tools. I succeeded in all these roles because I'm a dedicated team player who's good with people.
 
 I thrive in professional environments with cultures focused on constant learning. I did a distance-learning Masters whilst deployed overseas and ran the Lessons Learnt process in Barclays Investment Bank, before learning to develop software at Makers Academy. This demonstrates my firm commitment to learn constantly and be part of organisation which have a learning culture.
+
+**Tech Skills:** Ruby, Rails, Sinatra, Javascript, Python, Django, Datamapper, PostgreSQL, Pair-programming, TDD, RSpec & Jasmine.  
 
 ## Skills
 
