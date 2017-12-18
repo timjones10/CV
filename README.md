@@ -65,7 +65,6 @@ Risk and Advisory Manager
 **British Army** (Jan 2003 to Dec 2010)    
 Various Infantry, Intelligence & Training roles. 4 of 8 years service deployed overseas for operations and training.
 
-
 ## Interests
 * Reading about the ancient world, evolution, folklore or anything I can get my hands on.
 * I write the odd poem and have published a children's book for a friend's charity.
