@@ -34,7 +34,10 @@ I thrive in professional environments with cultures focused on constant learning
 
 #### Makers Academy (Sep 2017 to Dec 2017)
 
-- To be updated.
+- Object Oriented Programming
+- Agile Software Development
+- Test Driven Development
+- XP Values
 
 #### Open University (2008 - 2010)
 
