@@ -8,6 +8,14 @@ As a developer this experience means I'm calm in the face of complexity, love wo
 
 I became a developer because I want to actively solve problems, be creative everyday, and love learning. I did a distance-learning Masters whilst deployed overseas and ran the Lessons Learnt process in Barclays Investment Bank, before learning to develop software at Makers Academy. I want my work as a developer to be part of the positive, trnasformative change that Technology is driving in organisations and communites across the world.
 
+## Projects
+
+| GitHub  | Project Description | Tech |
+|-------------|---------------------|------|
+|      [Shazam for Art](https://github.com/timjones10/shazam_for_art)  |           Machine Learning Project created by a team of four over two weeks. Web App identifies the artist from an previoulsy unseen image of a painting. Fascinating intro to image processing and machine learning. Final accuracy up to 77% across 5 artists.           |   Python   Scikit Learn Django
+|[Yowl - Restaurant Review App](https://github.com/timjones10/Yowl)|Application built to learn Rails by creating a restaurant reviews application. I loved this introduction to Rails. If I were to take this forward I would use it further get to grips with integrating Bootstrap to the application.              | Ruby, Rails, Bootstrap,                     |      |
+|[MakersBnB](https://github.com/timjones10/makersbnb-1)|Application built in a team of four using an entirely new Tech Stack. Application was to mimic the functionality of AirBnB. This was a great introduction to pulling together a Tech Stack from scratch in an unfamiliar language.|Node.js Express MongoDB Mocha Zombie|
+
 ## Skills
 
 #### Analysis
