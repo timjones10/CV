@@ -1,7 +1,7 @@
 ## Tim Jones
-I'm a full stack software developer focussed on 
+I'm a full stack software developer focussed on growing my ability to do full end to end delivery of software.
 
-In the army I led various teams, from infantry soldiers in Helmand Province, to intelligence analysts in Iraq. I built a political and security risk consultancy within a larger company focussed on the Middle East and Sub-Sharan Africa. At Barclays I focussed on preventing unexpected risk events in the front office of the Investment Bank including working with developers to produce risk and control tools. I succeeded in all these roles because I'm a good team player who's good with people.
+My background is in risk, both in finance and consultancy, and military. In the army I led various teams, from infantry soldiers in Helmand Province, to intelligence analysts in Iraq. I built a political and security risk consultancy within a larger company focussed on the Middle East and Sub-Sharan Africa. At Barclays I focussed on preventing unexpected risk events in the front office of the Investment Bank including working with developers to produce risk and control tools. I succeeded in all these roles because I'm a dedicated team player who's good with people.
 
 I thrive in professional environments with cultures focused on constant learning. I did a distance-learning Masters whilst deployed overseas and ran the Lessons Learnt process in Barclays Investment Bank, before learning to develop software at Makers Academy. This demonstrates my firm commitment to learn constantly and be part of organisation which have a learning culture.
 
@@ -10,7 +10,7 @@ I thrive in professional environments with cultures focused on constant learning
 #### Analysis
 
 * Analysed and moved intelligence to improve management understanding in a Special Forces Headquarters as part of a multi-agency, multi-national, geographically dispersed team. 
-* Designed frameworks for analysing security and political risks and delivered reports (private, public and charity organisations).
+* Designed frameworks for analysing security and political risks and delivered client reports (private, public and charity organisations).
 
 #### Simplifying Complexity
 
@@ -20,14 +20,14 @@ I thrive in professional environments with cultures focused on constant learning
 #### Planning and Delivery
 
 * Built on my work in specialist planning roles in the Army while delivering projects in the Investment Bank, a large and complex organisation where change was constant. 
-* Posess the energy, experience and mental agility to suggest solutions and keep things moving. 
-* I've regularly led stalled meetings to agreement or decision by identifying and articulating the issue and recommending next steps.
+* Possess the energy, experience and mental agility to suggest solutions and keep things moving. 
+* I've regularly led stalled meetings to agreement or decision by identifying and articulating the issue and recommending next steps. At Makers during group projects I regularly took the lead in identifying unknowns and developing courses of action.
 
 
 #### Communication
 
 * Delivered verbal briefings and written reports to paying clients during my work as a Risk and Advisory Manager. 
-* Comfortable speaking across diverse teams and have the emotional intelligence to quickly read the dynamics of a room. I
+* Comfortable speaking across diverse teams and have the emotional intelligence to quickly read the dynamics of a room.
 * Produced written reports at Barclays which clearly summarised and communicated complex risk events across dozens of businesses and hundreds of systems and processes.
 
 ## Education
