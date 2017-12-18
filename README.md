@@ -1,4 +1,8 @@
-## Tim Jones
+# Tim Jones
+
+| [Projects](Projects) | [Skills](Skills) | [Education](Education) | [Experience](Experience) | [Interests](Interests) | [Linkedin](www.linkedin.com/in/timjones10) | [Blog](https://medium.com/@tim_m_j) |
+
+## About
 
 I'm a full stack junior developer with a background in operational risk in finance, political risk consultancy and the military.
 
