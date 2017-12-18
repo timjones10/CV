@@ -1,11 +1,12 @@
 ## Tim Jones
-I'm a full stack software developer focussed on growing my ability to do full end to end delivery of software.
 
-My immediate background is in risk, both in finance and a consultancy and prior to that the army. I've led varied teams from infantry soldiers in Helmand Province, to intelligence analysts in Iraq. I built a political and security risk consultancy within a larger company focussed on the Middle East and Sub-Sharan Africa. At Barclays I focussed on preventing unexpected risk events in the front office of the Investment Bank including working with developers to produce risk and control tools. I succeeded in all these roles because I'm a dedicated team player who's good with people.
+I'm a full stack junior developer with a background in operational risk in finance, political risk consultancy and the military.
 
-I thrive in professional environments with cultures focused on constant learning. I did a distance-learning Masters whilst deployed overseas and ran the Lessons Learnt process in Barclays Investment Bank, before learning to develop software at Makers Academy. This demonstrates my firm commitment to learn constantly and be part of organisation which have a learning culture.
+I've led teams from infantry soldiers in Helmand Province, to intelligence analysts in Iraq. I built a political and security risk consultancy within a larger company focussed on the Middle East and Sub-Saharan Africa. At Barclays I focussed on preventing unexpected risk events in the front office of the Investment Bank including working with developers to produce risk and control tools. 
 
-**Tech Skills:** Ruby, Rails, Sinatra, Javascript, Python, Django, Datamapper, PostgreSQL, Pair-programming, TDD, RSpec & Jasmine.  
+As a developer this experience means I'm calm in the face of complexity, love working in a pair or a team and quickly grasp the user requirements and broader context of the software deployment.
+
+I became a developer because I want to actively solve problems, be creative everyday, and love learning. I did a distance-learning Masters whilst deployed overseas and ran the Lessons Learnt process in Barclays Investment Bank, before learning to develop software at Makers Academy. I want my work as a developer to be part of the positive, trnasformative change that Technology is driving in organisations and communites across the world.
 
 ## Skills
 
