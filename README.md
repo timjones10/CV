@@ -1,6 +1,6 @@
 # Tim Jones
 
-| [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Linkedin](https://www.linkedin.com/in/timjones10) | [Blog](https://medium.com/@tim_m_j) |
+| [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Linkedin](https://www.linkedin.com/in/timjones10) |
 
 ## About
 
